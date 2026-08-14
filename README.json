@@ -1,0 +1,276 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 API Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Revoice.js",
+          "description": "A library for interacting with voice channels on Stoat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T17:12:16Z",
+            "owner": "ShadowLp174",
+            "repo": "revoice.js",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revolt Uploader",
+          "description": "A utility package that allows you to add attachments to messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T15:28:13Z",
+            "owner": "ShadowLp174",
+            "repo": "revolt-uploader",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stoatx",
+          "description": "A library built around making bot development easier with an object-oriented client and decorator framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T07:08:38Z",
+            "owner": "stoatx-ts",
+            "repo": "stoatx",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stoat.py",
+          "description": "Flexible, asynchronous and feature-rich Stoat API wrapper for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-03T16:39:51Z",
+            "owner": "MCausc78",
+            "repo": "stoat.py",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voltage",
+          "description": "A simple asynchronous pythonic wrapper for the Stoat API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T15:11:46Z",
+            "owner": "EnokiUN",
+            "repo": "voltage",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stoat-rs",
+          "description": "A Rust-based wrapper for the Stoat API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T04:47:54Z",
+            "owner": "Zomatree",
+            "repo": "rust-stoat-sdk",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seria",
+          "description": "A Rust-based library for interacting with Stoat.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-06-26T06:51:10Z",
+            "owner": "reinacchi",
+            "repo": "seria",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "revcord",
+          "description": "Discord bridge with setup through commands. Supports edits, images, embeds etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-16T16:39:38Z",
+            "owner": "mayudev",
+            "repo": "revcord",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix",
+          "description": "An advanced music bot that supports YouTube, Spotify, and Soundcloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T12:54:25Z",
+            "owner": "remix-bot",
+            "repo": "stoat",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Borgar",
+          "description": "A Discord and Stoat bot for making fun image edits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-19T19:11:05Z",
+            "owner": "shaksternano",
+            "repo": "borgar",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CartelBot",
+          "description": "An Econ Bot that is based around making your own Cartel, rise up in the ranks today.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T15:05:45Z",
+            "owner": "HamBone999",
+            "repo": "CartelBot_Stoat",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🤖 Bots"
+    },
+    {
+      "description": "For a full list of clients with more information, check out the Stoat Clients page on the Stoat Community Wiki.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clerotri",
+          "description": "Stoat client for Android and web, built with React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T20:55:31Z",
+            "owner": "upryzing",
+            "repo": "clerotri",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refork",
+          "description": "Fork of the Android Stoat client with QOL features and de-googled phone support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-02-11T15:20:19Z",
+            "owner": "alexjyong",
+            "repo": "android",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UStoat",
+          "description": "A Stoat client writen in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:24:10Z",
+            "owner": "Spyro24",
+            "repo": "UStoat",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avia Client",
+          "description": "Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T01:15:02Z",
+            "owner": "AvaLilac",
+            "repo": "for-desktop",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReviteRevived",
+          "description": "Fork of the For Legacy Web client with improvements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-03T11:22:51Z",
+            "owner": "ReviteRevived",
+            "repo": "revite",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "🔧 Third-party Clients"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:12:43.918Z",
+    "original_repository": "stoatchat/awesome-stoat",
+    "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
+    "enhanced_repository": "enhansome/enhansome-stoat",
+    "enhanced_repository_description": null,
+    "title": "Awesome Stoat with stars"
+  }
+}
