@@ -222,7 +222,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:24:10Z",
+            "last_commit": "2026-08-14T21:58:18Z",
             "owner": "Spyro24",
             "repo": "UStoat",
             "stars": 11
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:12:43.918Z",
+    "last_updated": "2026-08-15T02:04:01.163Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",
