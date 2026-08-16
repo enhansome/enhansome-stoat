@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-19T19:11:05Z",
+            "last_commit": "2026-08-15T21:37:06Z",
             "owner": "shaksternano",
             "repo": "borgar",
             "stars": 13
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:04:01.163Z",
+    "last_updated": "2026-08-16T02:10:48.768Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",

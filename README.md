@@ -61,7 +61,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 * [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
 * [Remix](https://github.com/remix-bot/stoat) ⭐ 43 | 🐛 42 | 🌐 JavaScript | 📅 2026-07-19 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
-* [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-03-19 - A Discord and Stoat bot for making fun image edits.
+* [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-15 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 * [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
 * [matrix-appservice-revolt](https://codeberg.org/austinhuang/matrix-appservice-revolt) - Matrix-Stoat bridge.
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
