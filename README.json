@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-03T16:39:51Z",
+            "last_commit": "2026-08-16T15:26:08Z",
             "owner": "MCausc78",
             "repo": "stoat.py",
             "stars": 45
@@ -236,7 +236,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T01:15:02Z",
+            "last_commit": "2026-08-17T01:48:04Z",
             "owner": "AvaLilac",
             "repo": "for-desktop",
             "stars": 9
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:10:48.768Z",
+    "last_updated": "2026-08-17T02:09:28.293Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",
