@@ -222,7 +222,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:58:18Z",
+            "last_commit": "2026-08-17T20:13:38Z",
             "owner": "Spyro24",
             "repo": "UStoat",
             "stars": 11
@@ -236,7 +236,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T01:48:04Z",
+            "last_commit": "2026-08-17T22:34:21Z",
             "owner": "AvaLilac",
             "repo": "for-desktop",
             "stars": 9
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:09:28.293Z",
+    "last_updated": "2026-08-18T02:05:41.371Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",
