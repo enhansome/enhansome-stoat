@@ -32,11 +32,11 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,970 | 🐛 230 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,971 | 🐛 230 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
-* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2026-08-16 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
+* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-08-16 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
 * [Voltage](https://github.com/EnokiUN/voltage) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2025-06-12 - A simple asynchronous pythonic wrapper for the Stoat API.
 
 ### Rust
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
