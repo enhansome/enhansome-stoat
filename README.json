@@ -1,128 +1,139 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Revoice.js",
+              "description": "A library for interacting with voice channels on Stoat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524472095,
+                "language": "JavaScript",
+                "last_commit": "2026-05-04T17:12:16Z",
+                "owner": "ShadowLp174",
+                "repo": "revoice.js",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Revolt Uploader",
+              "description": "A utility package that allows you to add attachments to messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570258970,
+                "language": "JavaScript",
+                "last_commit": "2026-03-04T15:28:13Z",
+                "owner": "ShadowLp174",
+                "repo": "revolt-uploader",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stoatx",
+              "description": "A library built around making bot development easier with an object-oriented client and decorator framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1156305429,
+                "language": "TypeScript",
+                "last_commit": "2026-07-28T07:08:38Z",
+                "owner": "stoatx-ts",
+                "repo": "stoatx",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "stoat.py",
+              "description": "Flexible, asynchronous and feature-rich Stoat API wrapper for Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824212422,
+                "language": "Python",
+                "last_commit": "2026-08-16T15:26:08Z",
+                "owner": "MCausc78",
+                "repo": "stoat.py",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Voltage",
+              "description": "A simple asynchronous pythonic wrapper for the Stoat API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469056569,
+                "language": "Python",
+                "last_commit": "2025-06-12T15:11:46Z",
+                "owner": "EnokiUN",
+                "repo": "voltage",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stoat-rs",
+              "description": "A Rust-based wrapper for the Stoat API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1122012813,
+                "language": "Rust",
+                "last_commit": "2026-07-20T04:47:54Z",
+                "owner": "Zomatree",
+                "repo": "rust-stoat-sdk",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Seria",
+              "description": "A Rust-based library for interacting with Stoat.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1000973148,
+                "language": "Rust",
+                "last_commit": "2025-06-26T06:51:10Z",
+                "owner": "reinacchi",
+                "repo": "seria",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
+        }
+      ],
       "title": "💻 API Libraries"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Revoice.js",
-          "description": "A library for interacting with voice channels on Stoat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-04T17:12:16Z",
-            "owner": "ShadowLp174",
-            "repo": "revoice.js",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Revolt Uploader",
-          "description": "A utility package that allows you to add attachments to messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-04T15:28:13Z",
-            "owner": "ShadowLp174",
-            "repo": "revolt-uploader",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stoatx",
-          "description": "A library built around making bot development easier with an object-oriented client and decorator framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-28T07:08:38Z",
-            "owner": "stoatx-ts",
-            "repo": "stoatx",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "stoat.py",
-          "description": "Flexible, asynchronous and feature-rich Stoat API wrapper for Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T15:26:08Z",
-            "owner": "MCausc78",
-            "repo": "stoat.py",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Voltage",
-          "description": "A simple asynchronous pythonic wrapper for the Stoat API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-12T15:11:46Z",
-            "owner": "EnokiUN",
-            "repo": "voltage",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Stoat-rs",
-          "description": "A Rust-based wrapper for the Stoat API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-20T04:47:54Z",
-            "owner": "Zomatree",
-            "repo": "rust-stoat-sdk",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Seria",
-          "description": "A Rust-based library for interacting with Stoat.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2025-06-26T06:51:10Z",
-            "owner": "reinacchi",
-            "repo": "seria",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -131,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468898711,
             "language": "TypeScript",
             "last_commit": "2026-03-16T16:39:38Z",
             "owner": "mayudev",
@@ -145,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336532577,
             "language": "JavaScript",
             "last_commit": "2026-07-19T12:54:25Z",
             "owner": "remix-bot",
@@ -159,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482092089,
             "language": "Kotlin",
             "last_commit": "2026-08-15T21:37:06Z",
             "owner": "shaksternano",
@@ -173,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1300999948,
             "language": "Python",
             "last_commit": "2026-07-15T15:05:45Z",
             "owner": "HamBone999",
@@ -184,7 +199,7 @@
       "title": "🤖 Bots"
     },
     {
-      "description": "For a full list of clients with more information, check out the Stoat Clients page on the Stoat Community Wiki.",
+      "description": "[!WARNING] Unless stated, these are not officially endorsed. Proceed at your own risk.\nFor a full list of clients with more information, check out the Stoat Clients page on the Stoat Community Wiki.",
       "items": [
         {
           "node_type": "item",
@@ -193,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420268642,
             "language": "TypeScript",
             "last_commit": "2026-08-09T20:55:31Z",
             "owner": "upryzing",
@@ -207,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1020437871,
             "language": "Kotlin",
             "last_commit": "2026-02-11T15:20:19Z",
             "owner": "alexjyong",
@@ -221,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158721800,
             "language": "Python",
             "last_commit": "2026-08-17T20:13:38Z",
             "owner": "Spyro24",
@@ -235,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1165845242,
             "language": "JavaScript",
             "last_commit": "2026-08-17T22:34:21Z",
             "owner": "AvaLilac",
@@ -249,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1131576676,
             "language": "TypeScript",
             "last_commit": "2026-06-03T11:22:51Z",
             "owner": "ReviteRevived",
@@ -258,16 +278,12 @@
         }
       ],
       "title": "🔧 Third-party Clients"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:07:30.041Z",
+    "last_updated": "2026-08-19T12:52:47.182Z",
     "original_repository": "stoatchat/awesome-stoat",
+    "original_repository_id": 367965336,
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",
     "enhanced_repository_description": null,

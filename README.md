@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,971 | 🐛 230 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2026-08-16 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,972 | 🐛 230 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
