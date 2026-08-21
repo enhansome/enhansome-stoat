@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2026-08-19 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,972 | 🐛 230 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-20 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,971 | 🐛 230 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
@@ -77,8 +77,8 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 * [Clerotri](https://github.com/upryzing/clerotri) ⭐ 185 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-09 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
-* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - A Stoat client writen in Python.
-* [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-17 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
+* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - A Stoat client writen in Python.
+* [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
 * [ReviteRevived](https://github.com/ReviteRevived/revite) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-03 - Fork of the For Legacy Web client with improvements.
 
 ## Contributing
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
