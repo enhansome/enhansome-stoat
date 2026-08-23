@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 824212422,
                 "language": "Python",
-                "last_commit": "2026-08-16T15:26:08Z",
+                "last_commit": "2026-08-22T15:41:01Z",
                 "owner": "MCausc78",
                 "repo": "stoat.py",
                 "stars": 45
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 336532577,
             "language": "JavaScript",
-            "last_commit": "2026-07-19T12:54:25Z",
+            "last_commit": "2026-08-23T00:13:13Z",
             "owner": "remix-bot",
             "repo": "stoat",
             "stars": 43
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 1158721800,
             "language": "Python",
-            "last_commit": "2026-08-20T21:10:51Z",
+            "last_commit": "2026-08-22T21:20:39Z",
             "owner": "Spyro24",
             "repo": "UStoat",
             "stars": 11
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:05:19.661Z",
+    "last_updated": "2026-08-23T02:14:04.695Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_id": 367965336,
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",

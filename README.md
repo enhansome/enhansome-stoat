@@ -36,7 +36,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Python
 
-* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-08-16 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
+* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
 * [Voltage](https://github.com/EnokiUN/voltage) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2025-06-12 - A simple asynchronous pythonic wrapper for the Stoat API.
 
 ### Rust
@@ -60,7 +60,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ## 🤖 Bots
 
 * [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
-* [Remix](https://github.com/remix-bot/stoat) ⭐ 43 | 🐛 42 | 🌐 JavaScript | 📅 2026-07-19 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
+* [Remix](https://github.com/remix-bot/stoat) ⭐ 43 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-23 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
 * [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-15 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 * [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
@@ -77,7 +77,7 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 * [Clerotri](https://github.com/upryzing/clerotri) ⭐ 185 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-09 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
-* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - A Stoat client writen in Python.
+* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - A Stoat client writen in Python.
 * [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
 * [ReviteRevived](https://github.com/ReviteRevived/revite) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-03 - Fork of the For Legacy Web client with improvements.
 
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
