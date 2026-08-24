@@ -59,6 +59,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "StoatSharp",
+              "description": "C# lib with all the events and easy to use design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405766716,
+                "language": "C#",
+                "last_commit": "2026-07-08T15:19:24Z",
+                "owner": "FluxpointDev",
+                "repo": "StoatSharp",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C#"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "revoltgo",
+              "description": "Low-level bindings to the Stoat API, like discordgo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653198992,
+                "language": "Go",
+                "last_commit": "2026-08-23T16:44:11Z",
+                "owner": "sentinelb51",
+                "repo": "revoltgo",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "stoat.py",
               "description": "Flexible, asynchronous and feature-rich Stoat API wrapper for Python.",
               "children": [],
@@ -128,6 +172,50 @@
           "description": null,
           "node_type": "group",
           "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RevoltKit",
+              "description": "An API wrapper for Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655802390,
+                "language": "Swift",
+                "last_commit": "2023-06-25T14:45:06Z",
+                "owner": "gulje",
+                "repo": "RevoltKit",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "revolt-cobol-api",
+              "description": "A COBOL API wrapper for making Stoat bots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614693261,
+                "language": "COBOL",
+                "last_commit": "2023-03-18T19:03:25Z",
+                "owner": "kabylake1",
+                "repo": "revolt-cobol-api",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cobol"
         }
       ],
       "title": "💻 API Libraries"
@@ -281,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:12:16.962Z",
+    "last_updated": "2026-08-24T14:22:04.824Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_id": 367965336,
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",

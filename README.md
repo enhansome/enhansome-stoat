@@ -27,12 +27,12 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### C\#
 
-* [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Stoat.
 * [StoatSharp](https://github.com/FluxpointDev/StoatSharp) ⭐ 25 | 🐛 2 | 🌐 C# | 📅 2026-07-08 - C# lib with all the events and easy to use design.
+* [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Stoat.
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-23 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,973 | 🐛 230 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-23 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,974 | 🐛 230 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
