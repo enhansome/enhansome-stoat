@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-04T17:12:16Z",
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-28T07:08:38Z",
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
-                "stars": 3
+                "stars": 4
               }
             }
           ],
@@ -281,7 +281,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:14:04.695Z",
+    "last_updated": "2026-08-24T02:12:16.962Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_id": 367965336,
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
