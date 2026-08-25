@@ -20,7 +20,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Node.js
 
-* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-05-04 - A library for interacting with voice channels on Stoat.
+* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 22 | 🐛 5 | 🌐 JavaScript | 📅 2026-05-04 - A library for interacting with voice channels on Stoat.
 * [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-04 - A utility package that allows you to add attachments to messages.
 * [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28 - A library built around making bot development easier with an object-oriented client and decorator framework.
 * [stoat.js](https://www.npmjs.com/package/stoat.js) - Official JavaScript library for Stoat.
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
