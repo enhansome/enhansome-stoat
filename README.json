@@ -88,7 +88,7 @@
                 "archived": false,
                 "id": 653198992,
                 "language": "Go",
-                "last_commit": "2026-08-23T16:44:11Z",
+                "last_commit": "2026-08-25T17:58:11Z",
                 "owner": "sentinelb51",
                 "repo": "revoltgo",
                 "stars": 28
@@ -328,7 +328,7 @@
             "archived": false,
             "id": 1158721800,
             "language": "Python",
-            "last_commit": "2026-08-22T21:20:39Z",
+            "last_commit": "2026-08-25T21:09:11Z",
             "owner": "Spyro24",
             "repo": "UStoat",
             "stars": 11
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:21.583Z",
+    "last_updated": "2026-08-26T02:14:02.305Z",
     "original_repository": "stoatchat/awesome-stoat",
     "original_repository_id": 367965336,
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
