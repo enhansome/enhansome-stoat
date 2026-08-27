@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-04T17:12:16Z",
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-28T07:08:38Z",
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
-                "stars": 4
+                "stars": 5
               }
             }
           ],
@@ -235,7 +235,7 @@
             "last_commit": "2026-03-16T16:39:38Z",
             "owner": "mayudev",
             "repo": "revcord",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -298,7 +298,7 @@
             "archived": false,
             "id": 420268642,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T20:55:31Z",
+            "last_commit": "2026-08-27T03:53:25Z",
             "owner": "upryzing",
             "repo": "clerotri",
             "stars": 185
@@ -369,9 +369,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:14:02.305Z",
-    "original_repository": "stoatchat/awesome-stoat",
-    "original_repository_id": 367965336,
+    "last_updated": "2026-08-27T10:34:28.902Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 367965336,
+      "language": null,
+      "last_commit": "2026-08-04T03:57:09Z",
+      "owner": "stoatchat",
+      "repo": "awesome-stoat",
+      "stars": 544
+    },
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",
     "enhanced_repository_description": null,

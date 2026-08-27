@@ -20,9 +20,9 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Node.js
 
-* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 22 | 🐛 5 | 🌐 JavaScript | 📅 2026-05-04 - A library for interacting with voice channels on Stoat.
+* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2026-05-04 - A library for interacting with voice channels on Stoat.
 * [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-04 - A utility package that allows you to add attachments to messages.
-* [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28 - A library built around making bot development easier with an object-oriented client and decorator framework.
+* [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28 - A library built around making bot development easier with an object-oriented client and decorator framework.
 * [stoat.js](https://www.npmjs.com/package/stoat.js) - Official JavaScript library for Stoat.
 
 ### C\#
@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-25 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,974 | 🐛 230 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-25 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,977 | 🐛 229 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
@@ -59,7 +59,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ## 🤖 Bots
 
-* [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
+* [revcord](https://github.com/mayudev/revcord) ⭐ 138 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
 * [Remix](https://github.com/remix-bot/stoat) ⭐ 43 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-23 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
 * [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-15 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
@@ -75,7 +75,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 For a full list of clients with more information, check out the [Stoat Clients page](https://wiki.rvlt.gg/index.php/Stoat_Clients) on the Stoat Community Wiki.
 
-* [Clerotri](https://github.com/upryzing/clerotri) ⭐ 185 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-09 - Stoat client for Android and web, built with React Native.
+* [Clerotri](https://github.com/upryzing/clerotri) ⭐ 185 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-27 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
 * [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-25 - A Stoat client writen in Python.
 * [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
