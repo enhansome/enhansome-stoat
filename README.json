@@ -18,7 +18,8 @@
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ShadowLp174",
                 "repo": "revolt-uploader",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "FluxpointDev",
                 "repo": "StoatSharp",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -88,11 +92,12 @@
                 "archived": false,
                 "id": 653198992,
                 "language": "Go",
-                "last_commit": "2026-08-25T17:58:11Z",
+                "last_commit": "2026-08-27T15:28:52Z",
                 "owner": "sentinelb51",
                 "repo": "revoltgo",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -114,7 +119,8 @@
                 "owner": "MCausc78",
                 "repo": "stoat.py",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             },
             {
               "node_type": "item",
@@ -129,7 +135,8 @@
                 "owner": "EnokiUN",
                 "repo": "voltage",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -151,7 +158,8 @@
                 "owner": "Zomatree",
                 "repo": "rust-stoat-sdk",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             },
             {
               "node_type": "item",
@@ -166,7 +174,8 @@
                 "owner": "reinacchi",
                 "repo": "seria",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -188,7 +197,8 @@
                 "owner": "gulje",
                 "repo": "RevoltKit",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -210,7 +220,8 @@
                 "owner": "kabylake1",
                 "repo": "revolt-cobol-api",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:14:53.872Z"
             }
           ],
           "description": null,
@@ -236,7 +247,8 @@
             "owner": "mayudev",
             "repo": "revcord",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -251,7 +263,8 @@
             "owner": "remix-bot",
             "repo": "stoat",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -266,7 +279,8 @@
             "owner": "shaksternano",
             "repo": "borgar",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -281,7 +295,8 @@
             "owner": "HamBone999",
             "repo": "CartelBot_Stoat",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         }
       ],
       "title": "🤖 Bots"
@@ -301,8 +316,9 @@
             "last_commit": "2026-08-27T03:53:25Z",
             "owner": "upryzing",
             "repo": "clerotri",
-            "stars": 185
-          }
+            "stars": 186
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -317,7 +333,8 @@
             "owner": "alexjyong",
             "repo": "android",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -328,11 +345,12 @@
             "archived": false,
             "id": 1158721800,
             "language": "Python",
-            "last_commit": "2026-08-25T21:09:11Z",
+            "last_commit": "2026-08-27T21:08:26Z",
             "owner": "Spyro24",
             "repo": "UStoat",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -346,8 +364,9 @@
             "last_commit": "2026-08-20T06:03:10Z",
             "owner": "AvaLilac",
             "repo": "for-desktop",
-            "stars": 9
-          }
+            "stars": 10
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         },
         {
           "node_type": "item",
@@ -362,14 +381,15 @@
             "owner": "ReviteRevived",
             "repo": "revite",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
         }
       ],
       "title": "🔧 Third-party Clients"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:30.236Z",
+    "last_updated": "2026-08-28T12:14:53.872Z",
     "original_repository_info": {
       "archived": false,
       "id": 367965336,
