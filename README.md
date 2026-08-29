@@ -77,7 +77,7 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 * [Clerotri](https://github.com/upryzing/clerotri) ⭐ 186 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-27 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
-* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - A Stoat client writen in Python.
+* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - A Stoat client writen in Python.
 * [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
 * [ReviteRevived](https://github.com/ReviteRevived/revite) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-03 - Fork of the For Legacy Web client with improvements.
 
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

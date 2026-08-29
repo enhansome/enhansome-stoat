@@ -12,12 +12,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A NodeJS package for voice channel interactions on Revolt. This package lets you join voice channels, play music and more!",
+                "homepage": null,
                 "id": 524472095,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-04T17:12:16Z",
+                "open_issues": 5,
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bot",
+                  "channels",
+                  "ffmpeg",
+                  "js",
+                  "nodejs",
+                  "npm",
+                  "npm-package",
+                  "package",
+                  "revolt",
+                  "revolt-chat",
+                  "revoltjs",
+                  "stoat",
+                  "stoat-chat",
+                  "unofficial",
+                  "voice",
+                  "voice-channel"
+                ]
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             },
@@ -28,12 +50,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Revolt attachment uploader for nodejs",
+                "homepage": null,
                 "id": 570258970,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-04T15:28:13Z",
+                "open_issues": 0,
                 "owner": "ShadowLp174",
                 "repo": "revolt-uploader",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "attachment",
+                  "file",
+                  "javascript",
+                  "revolt",
+                  "revolt-bot",
+                  "revolt-chat",
+                  "revoltjs",
+                  "upload"
+                ]
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             },
@@ -44,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1156305429,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-28T07:08:38Z",
+                "open_issues": 0,
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -67,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C# lib for using the revolt chat API and connecting to the gateway to get events.",
+                "homepage": "https://rvlt.gg/N33Rf6DE",
                 "id": 405766716,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-08T15:19:24Z",
+                "open_issues": 2,
                 "owner": "FluxpointDev",
                 "repo": "StoatSharp",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -90,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go package that provides low-level bindings to the Stoat API, just like discordgo",
+                "homepage": null,
                 "id": 653198992,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T15:28:52Z",
+                "open_issues": 1,
                 "owner": "sentinelb51",
                 "repo": "revoltgo",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -113,12 +164,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API wrapper for Stoat written in Python.",
+                "homepage": "https://stoatpy.readthedocs.io/en/latest/index.html",
                 "id": 824212422,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T15:41:01Z",
+                "open_issues": 6,
                 "owner": "MCausc78",
                 "repo": "stoat.py",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "python",
+                  "stoat",
+                  "stoat-bot",
+                  "stoat-python",
+                  "stoatchat",
+                  "stoatpy"
+                ]
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             },
@@ -129,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple asynchronous pythonic wrapper for the revolt api",
+                "homepage": null,
                 "id": 469056569,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-12T15:11:46Z",
+                "open_issues": 5,
                 "owner": "EnokiUN",
                 "repo": "voltage",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -152,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stoat.chat rust sdk",
+                "homepage": null,
                 "id": 1122012813,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-20T04:47:54Z",
+                "open_issues": 0,
                 "owner": "Zomatree",
                 "repo": "rust-stoat-sdk",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             },
@@ -168,12 +241,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Rust-based library for interacting with Revolt.",
+                "homepage": null,
                 "id": 1000973148,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-06-26T06:51:10Z",
+                "open_issues": 0,
                 "owner": "reinacchi",
                 "repo": "seria",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "rust",
+                  "stoatchat"
+                ]
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -191,12 +272,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Revolt API implementation in pure Swift",
+                "homepage": null,
                 "id": 655802390,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-25T14:45:06Z",
+                "open_issues": 0,
                 "owner": "gulje",
                 "repo": "RevoltKit",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "revolt",
+                  "revolt-api",
+                  "revolt-api-wrapper",
+                  "revolt-chat",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -214,12 +306,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A COBOL API wrapper for making Revolt bots.",
+                "homepage": null,
                 "id": 614693261,
                 "language": "COBOL",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-18T19:03:25Z",
+                "open_issues": 1,
                 "owner": "kabylake1",
                 "repo": "revolt-cobol-api",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "revolt-api",
+                  "revolt-api-wrapper",
+                  "revolt-bot"
+                ]
               },
               "first_seen": "2026-08-28T12:14:53.872Z"
             }
@@ -241,12 +342,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bridge for Discord and Revolt with easy setup through commands",
+            "homepage": null,
             "id": 468898711,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-16T16:39:38Z",
+            "open_issues": 14,
             "owner": "mayudev",
             "repo": "revcord",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "bot",
+              "bridge",
+              "discord",
+              "discord-bridge",
+              "revolt",
+              "revolt-bridge",
+              "revolt-chat"
+            ]
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -257,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced music bot for Stoat that supports YouTube, Spotify, and SoundCloud - All the power just a click away!",
+            "homepage": "https://remix-bot.com",
             "id": 336532577,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:13:13Z",
+            "open_issues": 42,
             "owner": "remix-bot",
             "repo": "stoat",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -273,12 +392,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Discord and Stoat bot for making fun image edits.",
+            "homepage": null,
             "id": 482092089,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-15T21:37:06Z",
+            "open_issues": 2,
             "owner": "shaksternano",
             "repo": "borgar",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "discord",
+              "discord-bot",
+              "hacktoberfest",
+              "image-editing",
+              "image-processing",
+              "kotlin",
+              "revolt",
+              "revolt-bot",
+              "stoat",
+              "stoat-bot"
+            ]
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -289,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CartelBot for Stoat — economy & street-life RPG bot",
+            "homepage": null,
             "id": 1300999948,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-15T15:05:45Z",
+            "open_issues": 0,
             "owner": "HamBone999",
             "repo": "CartelBot_Stoat",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         }
@@ -311,12 +451,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Native client for Upryzing and Stoat/Revolt. Community-led project.",
+            "homepage": "https://rvlt.gg/clerotri",
             "id": 420268642,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T03:53:25Z",
+            "open_issues": 21,
             "owner": "upryzing",
             "repo": "clerotri",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "clerotri",
+              "react-native",
+              "revolt",
+              "revolt-client",
+              "rvmob",
+              "stoat",
+              "stoat-chat",
+              "stoat-client",
+              "upryzing",
+              "upryzing-client"
+            ]
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -327,12 +483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forked Version of the Revolt Android app",
+            "homepage": null,
             "id": 1020437871,
             "language": "Kotlin",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-11T15:20:19Z",
+            "open_issues": 9,
             "owner": "alexjyong",
             "repo": "android",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -343,12 +504,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pygame stoat client (from scratch)",
+            "homepage": null,
             "id": 1158721800,
             "language": "Python",
-            "last_commit": "2026-08-27T21:08:26Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T19:59:56Z",
+            "open_issues": 0,
             "owner": "Spyro24",
             "repo": "UStoat",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "stoat",
+              "stoat-client"
+            ]
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -359,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stoat for Desktop – application for Windows, macOS, and Linux. Now injected with Avia Client! A Vencord like modded client for Stoat",
+            "homepage": "https://avalilac.github.io/AviaClient-Home/",
             "id": 1165845242,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T06:03:10Z",
+            "open_issues": 0,
             "owner": "AvaLilac",
             "repo": "for-desktop",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -375,12 +549,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Revival project/client of the \"Revite\" version of Stoat.",
+            "homepage": "https://chat.asraye.com/",
             "id": 1131576676,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-03T11:22:51Z",
+            "open_issues": 9,
             "owner": "ReviteRevived",
             "repo": "revite",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "preact",
+              "react",
+              "revite",
+              "revolt",
+              "stoatchat",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         }
@@ -389,15 +575,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:14:53.872Z",
+    "last_updated": "2026-08-29T04:42:04.260Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
+      "homepage": "https://revolt.chat",
       "id": 367965336,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-04T03:57:09Z",
+      "open_issues": 6,
       "owner": "stoatchat",
       "repo": "awesome-stoat",
-      "stars": 544
+      "stars": 544,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "stoat",
+        "stoat-chat",
+        "stoatchat"
+      ]
     },
     "original_repository_sha": "3a5d985f81bac02cd50ca3206fe9d58a8bbea361",
     "enhanced_repository": "enhansome/enhansome-stoat",
