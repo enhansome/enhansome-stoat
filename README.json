@@ -509,7 +509,7 @@
             "id": 1158721800,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T19:59:56Z",
+            "last_commit": "2026-08-29T21:04:55Z",
             "open_issues": 0,
             "owner": "Spyro24",
             "repo": "UStoat",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:24:58.247Z",
+    "last_updated": "2026-08-30T05:51:37.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
