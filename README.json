@@ -380,7 +380,7 @@
             "open_issues": 42,
             "owner": "remix-bot",
             "repo": "stoat",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
@@ -460,7 +460,7 @@
             "open_issues": 21,
             "owner": "upryzing",
             "repo": "clerotri",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "clerotri",
               "react-native",
@@ -509,7 +509,7 @@
             "id": 1158721800,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T21:04:55Z",
+            "last_commit": "2026-08-30T20:48:05Z",
             "open_issues": 0,
             "owner": "Spyro24",
             "repo": "UStoat",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:51:37.943Z",
+    "last_updated": "2026-08-31T06:14:25.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
