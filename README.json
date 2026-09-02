@@ -85,8 +85,8 @@
                 "id": 1156305429,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-28T07:08:38Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-01T10:58:40Z",
+                "open_issues": 1,
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
                 "stars": 5,
@@ -509,7 +509,7 @@
             "id": 1158721800,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T20:48:05Z",
+            "last_commit": "2026-09-01T20:49:00Z",
             "open_issues": 0,
             "owner": "Spyro24",
             "repo": "UStoat",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:41:25.680Z",
+    "last_updated": "2026-09-02T05:06:03.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
