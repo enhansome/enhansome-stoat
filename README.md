@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-27 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,980 | 🐛 231 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-08-27 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,982 | 🐛 231 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
@@ -75,9 +75,9 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 For a full list of clients with more information, check out the [Stoat Clients page](https://wiki.rvlt.gg/index.php/Stoat_Clients) on the Stoat Community Wiki.
 
-* [Clerotri](https://github.com/upryzing/clerotri) ⭐ 187 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-03 - Stoat client for Android and web, built with React Native.
+* [Clerotri](https://github.com/upryzing/clerotri) ⭐ 187 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-05 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
-* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-01 - A Stoat client writen in Python.
+* [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - A Stoat client writen in Python.
 * [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
 * [ReviteRevived](https://github.com/ReviteRevived/revite) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-03 - Fork of the For Legacy Web client with improvements.
 
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
