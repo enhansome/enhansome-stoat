@@ -351,7 +351,7 @@
             "open_issues": 14,
             "owner": "mayudev",
             "repo": "revcord",
-            "stars": 138,
+            "stars": 137,
             "topics": [
               "bot",
               "bridge",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:17:45.838Z",
+    "last_updated": "2026-09-12T05:06:48.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
@@ -584,10 +584,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-08-04T03:57:09Z",
-      "open_issues": 6,
+      "open_issues": 5,
       "owner": "stoatchat",
       "repo": "awesome-stoat",
-      "stars": 543,
+      "stars": 544,
       "topics": [
         "awesome",
         "awesome-list",
