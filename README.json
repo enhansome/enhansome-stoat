@@ -141,7 +141,7 @@
                 "id": 653198992,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T08:29:19Z",
+                "last_commit": "2026-09-17T23:29:13Z",
                 "open_issues": 1,
                 "owner": "sentinelb51",
                 "repo": "revoltgo",
@@ -460,7 +460,7 @@
             "open_issues": 21,
             "owner": "upryzing",
             "repo": "clerotri",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "clerotri",
               "react-native",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:26:55.955Z",
+    "last_updated": "2026-09-18T05:14:26.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
@@ -587,7 +587,7 @@
       "open_issues": 5,
       "owner": "stoatchat",
       "repo": "awesome-stoat",
-      "stars": 544,
+      "stars": 545,
       "topics": [
         "awesome",
         "awesome-list",
