@@ -246,7 +246,7 @@
                 "id": 1000973148,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2025-06-26T06:51:10Z",
+                "last_commit": "2026-09-20T02:05:09Z",
                 "open_issues": 0,
                 "owner": "reinacchi",
                 "repo": "seria",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:06:41.039Z",
+    "last_updated": "2026-09-20T05:26:06.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
