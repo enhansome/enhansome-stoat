@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
-                "stars": 23,
+                "stars": 22,
                 "topics": [
                   "bot",
                   "channels",
@@ -456,7 +456,7 @@
             "id": 420268642,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T00:02:21Z",
+            "last_commit": "2026-09-21T22:21:11Z",
             "open_issues": 21,
             "owner": "upryzing",
             "repo": "clerotri",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:31:09.219Z",
+    "last_updated": "2026-09-22T05:24:38.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
