@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,991 | 🐛 232 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,989 | 🐛 232 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
@@ -60,7 +60,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ## 🤖 Bots
 
 * [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
-* [Remix](https://github.com/remix-bot/stoat) ⭐ 44 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-24 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
+* [Remix](https://github.com/remix-bot/stoat) ⭐ 44 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-25 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
 * [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-15 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 * [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
@@ -78,7 +78,7 @@ For a full list of clients with more information, check out the [Stoat Clients p
 * [Clerotri](https://github.com/upryzing/clerotri) ⭐ 186 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-24 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
 * [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - A Stoat client writen in Python.
-* [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-10 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
+* [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-25 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
 * [ReviteRevived](https://github.com/ReviteRevived/revite) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-03 - Fork of the For Legacy Web client with improvements.
 
 ## Contributing
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
