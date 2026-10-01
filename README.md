@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,991 | 🐛 232 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,992 | 🐛 232 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
@@ -60,7 +60,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ## 🤖 Bots
 
 * [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
-* [Remix](https://github.com/remix-bot/stoat) ⭐ 44 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-29 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
+* [Remix](https://github.com/remix-bot/stoat) ⭐ 44 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-30 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
 * [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-26 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 * [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
