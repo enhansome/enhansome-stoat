@@ -173,7 +173,7 @@
                 "open_issues": 6,
                 "owner": "MCausc78",
                 "repo": "stoat.py",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "python",
                   "stoat",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:22:24.525Z",
+    "last_updated": "2026-10-05T06:14:40.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",

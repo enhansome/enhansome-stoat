@@ -36,7 +36,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Python
 
-* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 6 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
+* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
 * [Voltage](https://github.com/EnokiUN/voltage) ⭐ 44 | 🐛 5 | 🌐 Python | 📅 2025-06-12 - A simple asynchronous pythonic wrapper for the Stoat API.
 
 ### Rust
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
