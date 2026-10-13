@@ -376,7 +376,7 @@
             "id": 336532577,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:54:18Z",
+            "last_commit": "2026-10-12T17:05:45Z",
             "open_issues": 44,
             "owner": "remix-bot",
             "repo": "stoat",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:34:09.655Z",
+    "last_updated": "2026-10-13T07:07:38.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
