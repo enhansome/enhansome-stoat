@@ -397,7 +397,7 @@
             "id": 482092089,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-26T18:11:47Z",
+            "last_commit": "2026-10-19T22:44:55Z",
             "open_issues": 2,
             "owner": "shaksternano",
             "repo": "borgar",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T05:21:20.784Z",
+    "last_updated": "2026-10-20T05:20:57.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
