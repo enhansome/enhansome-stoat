@@ -32,11 +32,11 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,994 | 🐛 233 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,993 | 🐛 233 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
-* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
+* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
 * [Voltage](https://github.com/EnokiUN/voltage) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2025-06-12 - A simple asynchronous pythonic wrapper for the Stoat API.
 
 ### Rust
@@ -60,7 +60,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ## 🤖 Bots
 
 * [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
-* [Remix](https://github.com/remix-bot/stoat) ⭐ 44 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-20 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
+* [Remix](https://github.com/remix-bot/stoat) ⭐ 45 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-20 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
 * [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-19 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 * [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
