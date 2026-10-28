@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-04T17:12:16Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
                 "stars": 21,
@@ -558,7 +558,7 @@
             "open_issues": 9,
             "owner": "ReviteRevived",
             "repo": "revite",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "preact",
               "react",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T05:38:15.379Z",
+    "last_updated": "2026-10-28T06:19:18.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
