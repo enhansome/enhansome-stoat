@@ -17,7 +17,7 @@
                 "id": 524472095,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-05-04T17:12:16Z",
+                "last_commit": "2026-10-29T23:07:10Z",
                 "open_issues": 6,
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
@@ -173,7 +173,7 @@
                 "open_issues": 7,
                 "owner": "MCausc78",
                 "repo": "stoat.py",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "python",
                   "stoat",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:30:00.355Z",
+    "last_updated": "2026-10-30T06:29:15.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",

@@ -20,7 +20,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Node.js
 
-* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-04 - A library for interacting with voice channels on Stoat.
+* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-29 - A library for interacting with voice channels on Stoat.
 * [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-04 - A utility package that allows you to add attachments to messages.
 * [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 - A library built around making bot development easier with an object-oriented client and decorator framework.
 * [stoat.js](https://www.npmjs.com/package/stoat.js) - Official JavaScript library for Stoat.
@@ -32,11 +32,11 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,992 | 🐛 233 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,993 | 🐛 233 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
-* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
+* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
 * [Voltage](https://github.com/EnokiUN/voltage) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2025-06-12 - A simple asynchronous pythonic wrapper for the Stoat API.
 
 ### Rust
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
