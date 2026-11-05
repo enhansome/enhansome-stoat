@@ -20,7 +20,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Node.js
 
-* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-29 - A library for interacting with voice channels on Stoat.
+* [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 22 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-04 - A library for interacting with voice channels on Stoat.
 * [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-04 - A utility package that allows you to add attachments to messages.
 * [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 - A library built around making bot development easier with an object-oriented client and decorator framework.
 * [stoat.js](https://www.npmjs.com/package/stoat.js) - Official JavaScript library for Stoat.
@@ -32,11 +32,11 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,996 | 🐛 235 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,998 | 🐛 235 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
-* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 45 | 🐛 7 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
+* [stoat.py](https://github.com/MCausc78/stoat.py) ⭐ 46 | 🐛 7 | 🌐 Python | 📅 2026-08-22 - Flexible, asynchronous and feature-rich Stoat API wrapper for Python.
 * [Voltage](https://github.com/EnokiUN/voltage) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2025-06-12 - A simple asynchronous pythonic wrapper for the Stoat API.
 
 ### Rust
@@ -60,7 +60,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 ## 🤖 Bots
 
 * [revcord](https://github.com/mayudev/revcord) ⭐ 137 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-16 - Discord bridge with setup through commands. Supports edits, images, embeds etc.
-* [Remix](https://github.com/remix-bot/stoat) ⭐ 45 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-30 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
+* [Remix](https://github.com/remix-bot/stoat) ⭐ 44 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-30 - An advanced music bot that supports YouTube, Spotify, and Soundcloud.
 * [Borgar](https://github.com/shaksternano/borgar) ⭐ 13 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-19 - A Discord and Stoat bot for making fun image edits.
 * [CartelBot](https://github.com/HamBone999/CartelBot_Stoat) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-15 - An Econ Bot that is based around making your own Cartel, rise up in the ranks today.
 * [Lightning](https://codeberg.org/jersey/lightning/) - A cross-platform bot that bridges Discord and Stoat.
@@ -75,7 +75,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 For a full list of clients with more information, check out the [Stoat Clients page](https://wiki.rvlt.gg/index.php/Stoat_Clients) on the Stoat Community Wiki.
 
-* [Clerotri](https://github.com/upryzing/clerotri) ⭐ 188 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-02 - Stoat client for Android and web, built with React Native.
+* [Clerotri](https://github.com/upryzing/clerotri) ⭐ 188 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-04 - Stoat client for Android and web, built with React Native.
 * [Refork](https://github.com/alexjyong/android) ⭐ 20 | 🐛 9 | 🌐 Kotlin | 📅 2026-02-11 - Fork of the Android Stoat client with QOL features and de-googled phone support.
 * [UStoat](https://github.com/spyro24/ustoat) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - A Stoat client writen in Python.
 * [Avia Client](https://github.com/AvaLilac/for-desktop) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-25 - Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
