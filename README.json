@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:10:38.772Z",
+    "last_updated": "2026-11-12T07:44:47.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
@@ -584,7 +584,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-08-04T03:57:09Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "stoatchat",
       "repo": "awesome-stoat",
       "stars": 548,
