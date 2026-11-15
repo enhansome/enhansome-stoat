@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "ShadowLp174",
                 "repo": "revoice.js",
-                "stars": 22,
+                "stars": 21,
                 "topics": [
                   "bot",
                   "channels",
@@ -380,7 +380,7 @@
             "open_issues": 45,
             "owner": "remix-bot",
             "repo": "stoat",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
@@ -460,7 +460,7 @@
             "open_issues": 20,
             "owner": "upryzing",
             "repo": "clerotri",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "clerotri",
               "react-native",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:03:09.628Z",
+    "last_updated": "2026-11-15T07:13:06.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
