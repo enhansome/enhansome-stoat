@@ -537,7 +537,7 @@
             "open_issues": 0,
             "owner": "AvaLilac",
             "repo": "for-desktop",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:13:06.861Z",
+    "last_updated": "2026-11-16T07:19:07.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
