@@ -499,6 +499,27 @@
         },
         {
           "node_type": "item",
+          "title": "Avia Client",
+          "description": "Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stoat for Desktop – application for Windows, macOS, and Linux. Now injected with Avia Client! A Vencord like modded client for Stoat",
+            "homepage": "https://avalilac.github.io/AviaClient-Home/",
+            "id": 1165845242,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-25T17:44:35Z",
+            "open_issues": 0,
+            "owner": "AvaLilac",
+            "repo": "for-desktop",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:14:53.872Z"
+        },
+        {
+          "node_type": "item",
           "title": "UStoat",
           "description": "A Stoat client writen in Python.",
           "children": [],
@@ -518,27 +539,6 @@
               "stoat",
               "stoat-client"
             ]
-          },
-          "first_seen": "2026-08-28T12:14:53.872Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Avia Client",
-          "description": "Fork of the Destkop/Web App to add Plugins/QuickCSS/Themes Support to stoat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Stoat for Desktop – application for Windows, macOS, and Linux. Now injected with Avia Client! A Vencord like modded client for Stoat",
-            "homepage": "https://avalilac.github.io/AviaClient-Home/",
-            "id": 1165845242,
-            "language": "JavaScript",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T17:44:35Z",
-            "open_issues": 0,
-            "owner": "AvaLilac",
-            "repo": "for-desktop",
-            "stars": 11,
-            "topics": []
           },
           "first_seen": "2026-08-28T12:14:53.872Z"
         },
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:19:07.574Z",
+    "last_updated": "2026-11-17T08:30:20.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
