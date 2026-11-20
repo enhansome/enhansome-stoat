@@ -22,7 +22,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 * [Revoice.js](https://github.com/ShadowLp174/revoice.js) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-04 - A library for interacting with voice channels on Stoat.
 * [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-04 - A utility package that allows you to add attachments to messages.
-* [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - A library built around making bot development easier with an object-oriented client and decorator framework.
+* [Stoatx](https://github.com/stoatx-ts/stoatx) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - A library built around making bot development easier with an object-oriented client and decorator framework.
 * [stoat.js](https://www.npmjs.com/package/stoat.js) - Official JavaScript library for Stoat.
 
 ### C\#
@@ -32,7 +32,7 @@ An awesome list of things for Stoat, the chat app that's truly built with you in
 
 ### Go
 
-* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 6,000 | 🐛 234 | 🌐 Go | 📅 2026-02-14
+* [revoltgo](https://github.com/sentinelb51/revoltgo) ⭐ 28 | 🐛 1 | 🌐 Go | 📅 2026-09-17 - Low-level bindings to the Stoat API, [like discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5,999 | 🐛 234 | 🌐 Go | 📅 2026-02-14
 
 ### Python
 
@@ -87,4 +87,4 @@ For a full list of clients with more information, check out the [Stoat Clients p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
