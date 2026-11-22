@@ -85,8 +85,8 @@
                 "id": 1156305429,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T19:21:57Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-21T17:59:34Z",
+                "open_issues": 0,
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
                 "stars": 7,
@@ -456,8 +456,8 @@
             "id": 420268642,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T04:41:26Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-21T23:03:44Z",
+            "open_issues": 19,
             "owner": "upryzing",
             "repo": "clerotri",
             "stars": 187,
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:43:22.096Z",
+    "last_updated": "2026-11-22T07:29:01.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
