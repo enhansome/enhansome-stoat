@@ -457,10 +457,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-23T23:41:12Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "upryzing",
             "repo": "clerotri",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "clerotri",
               "react-native",
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:26:26.364Z",
+    "last_updated": "2026-11-25T09:12:07.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
