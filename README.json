@@ -85,8 +85,8 @@
                 "id": 1156305429,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T17:59:34Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-27T15:11:26Z",
+                "open_issues": 2,
                 "owner": "stoatx-ts",
                 "repo": "stoatx",
                 "stars": 7,
@@ -575,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:06:51.494Z",
+    "last_updated": "2026-11-28T08:28:21.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of Stoat libraries, bots, clients and other cool stuff.",
